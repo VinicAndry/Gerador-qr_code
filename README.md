@@ -88,17 +88,6 @@ pycache/
 qrcodes/
 
 
-3. Para deixar ainda mais profissional, você pode:
-- Adicionar um arquivo LICENSE
-- Criar um executável (.exe) usando PyInstaller
-- Fazer deploy como um pacote PyPI
-
-📦 Pacotes Necessários (Instale via pip)
-Execute este comando no terminal/prompt:
-
-bash
-pip install qrcode[pil] pillow
-Isso instalará:
 
 qrcode (com suporte a PIL) - Biblioteca principal para gerar QR Codes
 
